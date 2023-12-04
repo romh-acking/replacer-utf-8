@@ -3,7 +3,7 @@
 # Replacer (UTF-8) 
 
 ## About
-This is a simple C# app to find and repalce strings based off parameters specified within a file.
+This is a simple C# app to find and replace strings based off parameters specified within a file.
 
 ## Arguments
 * Argument #1: Path of find/replace file.
